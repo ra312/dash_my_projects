@@ -1,0 +1,16 @@
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.7
+  - python.app
+  - numpy
+  - pandas
+  - jupyterlab
+  - nb_conda
+  - scikit-learn
+  - matplotlib
+  - nltk
+  - tensorflow
+  - pyspark
+  - ipykernel
